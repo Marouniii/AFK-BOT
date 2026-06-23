@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AFK BOT",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "MadraseSMP.aternos.me",
